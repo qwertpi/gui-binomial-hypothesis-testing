@@ -2,6 +2,8 @@
 I rewrote my Scala hypothesis testing program in Python (even though I prefer Scala) in order to create a GUI using Qt
 Feedback and pull requests are welcome
 
+[![codecov](https://codecov.io/gh/qwertpi/gui-binomial-hypothesis-testing/branch/main/graph/badge.svg?token=3Y7JKZ2X9H)](https://codecov.io/gh/qwertpi/gui-binomial-hypothesis-testing)
+
 ![In action](demo.gif?raw=true "In action")
 
 ## Copyright
